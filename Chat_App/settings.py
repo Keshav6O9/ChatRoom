@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$ksil!1nu7no4yxuz$8=oi#t9=0+3%7nj2m9r&24st+_j38b_h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["char-room.azurewebsites.net"]
+ALLOWED_HOSTS = ["https://gitchatroom.azurewebsites.net/"]
 
 
 # Application definition
